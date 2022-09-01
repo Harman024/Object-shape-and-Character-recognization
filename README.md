@@ -15,3 +15,10 @@ Difference between accuracy, loss and other factors are found.
 Using keras mnist dataset , 56x56 and 28x28 dimension images to train our ANN 7 layer model to get accuracy and loss.Run Optical character recognization.ipynb to know the accuarcy and time difference between model trained using 56x56 and 28x28 dimension images.
 
 Regression model: get the time and accuracy of recognization of certain character.
+
+# Object-tracking
+
+Path tracking of an object using opencv and moment calculation . 
+Opencv mask used to distinguish the object from surrounding.
+Moment calculation about the centroid of the object is used to track the path of the object.
+
