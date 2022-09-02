@@ -29,6 +29,6 @@ https://drive.google.com/file/d/1OqVZdld6c-sRa6Sg2NGDgdtV1MhjItO3/view?usp=shari
 
 
 
-Put the downloaded dataset at the same loaction.
+Put the downloaded dataset at the same location.
 
 Just run python notebook and get results.
